@@ -96,6 +96,8 @@ class HarvesterView(BaseView):
             self.directory_entry.delete(0, tk.END)
             self.directory_entry.insert(0, selected_file)
 
+            # self.controller.model
+
 
     def start_button_callback(self):
         # Implement the functionality for the "Start" button

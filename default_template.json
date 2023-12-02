@@ -1,0 +1,4 @@
+[
+    {"selector": "div.title", "key": "title"},
+    {"selector": "p.content", "key": "content"}
+]
